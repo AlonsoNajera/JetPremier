@@ -1,0 +1,35 @@
+
+
+.izquierda {
+height: 100%;
+
+}
+
+.derecha {
+  padding-top: 100PX;
+  width: 500px;
+  color: #88702a;
+      
+
+
+
+}
+
+.pantalla-dividida {
+  display: flex;
+
+}
+
+
+
+
+.footer {
+	padding-top:5px;
+	background-color: black;
+	color: white;
+
+  }
+
+  .footer-a {
+	text-decoration: underline;
+  }
